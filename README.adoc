@@ -272,5 +272,3 @@ This code is licensed under the link:LICENSE[Mozilla Public License 2.0], a copy
 
 We require that contributors accept the terms of Linux Foundation's link:https://developercertificate.org/[Developer Certificate of Origin]. Specific instructions can be found in link:CONTRIBUTING.md[].
 
-TEST
-
